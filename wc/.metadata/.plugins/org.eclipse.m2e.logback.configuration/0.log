@@ -1,0 +1,10 @@
+2019-06-21 12:26:08,467 [Worker-2: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-06-21 12:31:49,641 [Worker-1: Creating project "wc"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: wc:wc:0.0.1-SNAPSHOT @ /Users/lingessrajoo/Desktop/Pipeline/wc/wc/pom.xml.
+2019-06-21 12:31:49,842 [Worker-1: Creating project "wc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wc/src/main/java
+2019-06-21 12:31:49,843 [Worker-1: Creating project "wc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wc/src/main/resources
+2019-06-21 12:31:49,843 [Worker-1: Creating project "wc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /wc/src/test/java
+2019-06-21 12:31:49,844 [Worker-1: Creating project "wc"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /wc/src/test/resources
+2019-06-21 12:31:50,358 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:31:50,364 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-21 12:31:50,367 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-06-21 12:31:50,368 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
