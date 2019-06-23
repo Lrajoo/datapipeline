@@ -28,10 +28,10 @@ public class streamData {
         public void twitterAPI(String keyword){
                 ConfigurationBuilder cb = new ConfigurationBuilder();
                 cb.setDebugEnabled(true);
-                cb.setOAuthConsumerKey("yc9Bhh6Re2SS36RGpLKzVao40");
-                cb.setOAuthConsumerSecret("TajcAcEuLDFnGujGYgp6lmN3opuJjTZ9eyTD5Df7Cqdx8mg5MI");
-                cb.setOAuthAccessToken("1141775108165517318-JoSQKxKWf2aFqgNWqZpFeCbFJBme3f");
-                cb.setOAuthAccessTokenSecret("WeNww8bJyRYYoZ2u4ChOSRuGjxpzMlziexejPbVwvZMyv");
+                cb.setOAuthConsumerKey("***");
+                cb.setOAuthConsumerSecret("***");
+                cb.setOAuthAccessToken("***");
+                cb.setOAuthAccessTokenSecret("***");
                 TwitterStream twitterStream = new TwitterStreamFactory(cb.build()).getInstance();
 
                 StatusListener listener = new StatusListener() {
